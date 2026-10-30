@@ -12,4 +12,4 @@ console.log(etudiant)
 console.log(et1)
 //Destructuring
 const {name:nom} = etudiant
-console.log(nom)
+//console.log(nom)
